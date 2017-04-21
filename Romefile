@@ -1,0 +1,8 @@
+[Cache]
+  S3-Bucket = ""
+  local = ~/Library/Caches/Rome/
+
+[RepositoryMap]
+
+[IgnoreMap]
+  xcconfigs = xcconfigs
